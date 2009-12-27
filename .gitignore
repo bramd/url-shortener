@@ -4,3 +4,6 @@
 .svn
 svn-commit.tmp
 svn-prop.tmp
+bin/
+parts/
+.installed.cfg
