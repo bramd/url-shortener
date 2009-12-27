@@ -5,7 +5,7 @@ from django.conf import settings
 #from django.contrib.auth.models import User
 from django import forms
 
-from urlweb.shortener.baseconv import base62
+from shortener.baseconv import base62
 
 class Link(models.Model):
     """

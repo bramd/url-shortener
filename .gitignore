@@ -6,4 +6,6 @@ svn-commit.tmp
 svn-prop.tmp
 bin/
 parts/
+*.egg-info
 .installed.cfg
+develop-eggs/
